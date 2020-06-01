@@ -1,0 +1,22 @@
+{
+  "name": "recoded",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.2.0",
+    "encoding-japanese": "^1.0.30",
+    "express": "^4.17.1",
+    "form-data": "^2.5.1",
+    "fs": "0.0.1-security",
+    "iconv-lite": "^0.5.1",
+    "log4js": "^5.2.0",
+    "sync-request": "^6.1.0"
+  }
+}
